@@ -8,7 +8,8 @@ Profissional em transição para a área de Engenharia de Software, com experiê
 **Ferramentas:**
 
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757.svg?style=for-the-badge&logo=claude&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757.svg?style=for-the-badge&logo=Claude-code&logoColor=white)
+
 
 **Front-end:**
 
