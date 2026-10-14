@@ -21,7 +21,7 @@ Profissional em transição para a área de Engenharia de Software, com experiê
 ![HTML](https://img.shields.io/badge/HTML-20232a.svg?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/CSS-20232a.svg?style=for-the-badge&logo=css&logoColor=663399)
 ![JavaScript](https://img.shields.io/badge/JavaScript-20232a.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Node.js](https://img.shields.io/badge/Node.js-20232a.svg?style=for-the-badge&logo=node.js&logoColor=6DA55F)
+![Node.js](https://img.shields.io/badge/Node.js-20232a.svg?style=for-the-badge&logo=node.js&logoColor=339933)
 ![Express.js](https://img.shields.io/badge/express.js-20232a.svg?style=for-the-badge&logo=express&logoColor=FFFFFF)
 ![Prisma](https://img.shields.io/badge/Prisma-20232a.svg?style=for-the-badge&logo=prisma&logoColor=3982CE)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-20232a.svg?style=for-the-badge&logo=postgresql&logoColor=4169E1)
