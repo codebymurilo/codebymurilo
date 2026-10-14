@@ -21,12 +21,10 @@ Profissional em transição para a área de Engenharia de Software, com experiê
 ![HTML](https://img.shields.io/badge/HTML-20232a.svg?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/CSS-20232a.svg?style=for-the-badge&logo=css&logoColor=663399)
 ![JavaScript](https://img.shields.io/badge/JavaScript-20232a.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Node.js](https://img.shields.io/badge/Node.js-20232a.svg?style=for-the-badge&logo=node.js&logoColor=339933)
+![Node.js](https://img.shields.io/badge/Node.js-20232a.svg?style=for-the-badge&logo=node.js&logoColor=6cc24a)
 ![Express.js](https://img.shields.io/badge/express.js-20232a.svg?style=for-the-badge&logo=express&logoColor=FFFFFF)
 ![Prisma](https://img.shields.io/badge/Prisma-20232a.svg?style=for-the-badge&logo=prisma&logoColor=3982CE)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-20232a.svg?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![React](https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-20232a.svg?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
 ![Python](https://img.shields.io/badge/Python-20232a.svg?style=for-the-badge&logo=python&logoColor=3776AB)
 ![Cursor](https://img.shields.io/badge/Cursor-20232a.svg?style=for-the-badge&logo=cursor&logoColor=FFFFFF)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-20232a.svg?style=for-the-badge&logo=Claude-code&logoColor=D97757)
@@ -35,6 +33,8 @@ Profissional em transição para a área de Engenharia de Software, com experiê
 ## 📖 Tecnologias que estou aprendendo
 ![MongoDB](https://img.shields.io/badge/MongoDB-20232a.svg?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![TypeScript](https://img.shields.io/badge/TypeScript-20232a.svg?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-20232a.svg?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
 ![Docker](https://img.shields.io/badge/Docker-20232a.svg?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![AWS](https://custom-icon-badges.demolab.com/badge/AWS-20232a.svg?style=for-the-badge&logo=aws&logoColor=FF9900)
 
